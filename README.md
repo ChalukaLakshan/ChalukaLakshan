@@ -37,12 +37,6 @@ testing = ['xUnit', 'NUnit']
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChalukaLakshan&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🗒️ Featured Projects  
-
-- **Corporate Internet Banking App** - Maintained and enhanced corporate banking features, integrating real-time payments with QFC Fawran  
-- **Customer Trade Portal (CTP)** - Migrated an existing Finestra solution to an in-house system, improving customization and efficiency  
-- **Air Liquide - Customer Service System** - Upgraded and optimized a legacy system for multiple countries, enhancing logistics and service management  
-- **Logistics Management System** - Built a web app for managing import/export and transport operations, integrating with an ERP system  
 
 ## 🌐 Connect With Me  
 
